@@ -31,7 +31,23 @@
     "!./typings/**/*.ts"
   ],
   "files": [
-    "./02/point.ts"
+    "./02/allowfunc.ts",
+    "./02/const.ts",
+    "./02/const2.ts",
+    "./02/destructuring.ts",
+    "./02/enum.ts",
+    "./02/enum2.ts",
+    "./02/fib.ts",
+    "./02/foobase.ts",
+    "./02/forof.ts",
+    "./02/iterator.ts",
+    "./02/let.ts",
+    "./02/point.ts",
+    "./02/restparam.ts",
+    "./02/spread-op.ts",
+    "./02/statics.ts",
+    "./02/super.ts",
+    "./02/template-string.ts"
   ],
   "atom": {
     "rewriteTsconfig": true
